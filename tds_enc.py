@@ -1,21 +1,3 @@
-API
-FAQ
-ARCHIVE
-
-lamdayne1
-v1
-public
-lamdayne1  Aug 08, 2024  Never  0
-Copy link
-Share
-Clone
-
-Plaintext
-v1
-159 lines (159 loc)
-12.09 KB
-
-Raw
 den = "\033[1;90m"
 luc = "\033[1;32m"
 trang = "\033[1;37m"
@@ -175,14 +157,3 @@ except:
                 print(f'{lam}Sever Gặp Lỗi Hãy Liên Hệ Admin !!! {trang}')
         exit()
 exec(run)
-API
-FAQ
-Privacy
-Terms
-Contact
-System Status:
- 
-Stable
-By using PasteCode you agree to our cookies policy to enhance your experience
-
-Site design by Brill © 2023 PasteCode
